@@ -13,6 +13,8 @@ Trim_opt runs the Numerical optimisation routine to find the Trim points.
 InitialCondition is the culmination of the project,
  1. It specifies the Trim points obtain earlier as the Initial Conditions for the Simulation
  2. Initial Position and Run time of the Simulation
- 3. Plots the State quantities and Position parameters w.r.t Time.
+ 3. Plots the State quantities and Position parameters with respect to Time.
+
+nav_plots & states_plots are the Plots obtained after the simualtion for the Position parameters and the State parameters respectively.
 
 Acknowledged
