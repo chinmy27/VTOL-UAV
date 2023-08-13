@@ -15,4 +15,4 @@ InitialCondition is the culmination of the project,
  2. Initial Position and Run time of the Simulation
  3. Plots the State quantities and Position parameters w.r.t Time.
 
-END
+Acknowledged
